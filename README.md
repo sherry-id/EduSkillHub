@@ -1,7 +1,7 @@
 
   # EduSkill Hub Website Prototype
 
-  git clone https://github.com/sherry-id/EduSkillHub.git
+This is a code bundle for EduSkill Hub Website Prototype. The original project is available at https://www.figma.com/design/GHTtkw8SILc1XakD5IRCCn/EduSkill-Hub-Website-Prototype.
 
   ## Running the code
 
